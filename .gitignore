@@ -60,6 +60,4 @@ fabric.properties
 
 .idea/
 highestsums.iml
-pom.xml
-src/
 target/
